@@ -1,0 +1,6 @@
+Importing Necessary Libraries
+NumPy is a Python library used for working with arrays. It also has functions for working in domain of linear algebra, fourier transform, and matrices.
+Pandas is a library written for the Python programming language for data manipulation and analysis
+Matplotlib is one of the most popular Python packages used for data visualization. It is a cross-platform library for making 2D plots from data in arrays.
+Seaborn is an open-source Python library built on top of matplotlib. It is used for data visualization and exploratory data analysis.
+Warnings are provided to warn the developer of situations that aren’t necessarily exceptions
